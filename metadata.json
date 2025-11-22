@@ -1,0 +1,5 @@
+{
+  "name": "Plus Player",
+  "description": "A modern, glass-morphic music player with local file support, visualizer, and immersive UI.",
+  "requestFramePermissions": []
+}
